@@ -1,0 +1,29 @@
+ 1. Login   2. Create Account  3. Change Language  3. Exit
+ 1. View Listings   2. Create Listing   3. Search Listings   4. Buy Listing   5. Average Prices   6. Edit Preferences   7. Logout
+ 1. Add Notification Preference   2. Remove Notification Preference
+Choose an option:
+Enter username:
+Enter password:
+Enter email:
+Enter address:
+Enter phone number:
+Enter filter:
+Enter car brand:
+Enter car model:
+Enter car year:
+Enter price:
+Is it manual:
+Enter listing ID to buy:
+Enter notification channel (email/sms/pigeon):
+Logged in as
+Active Listings:
+Average price by year:
+Account created successfully.
+Listing created successfully.
+Listing purchased successfully.
+Notification preference added.
+Logged out successfully.
+Invalid username or password.
+Invalid filter or channel type.
+Removal not implemented yet.
+Invalid option.

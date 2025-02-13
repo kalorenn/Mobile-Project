@@ -1,0 +1,15 @@
+user1
+10 Downing Street
+user1@email.com
+user1pass
+123-456
+user2
+21 Jump Street
+user2@email.com
+gotin123
+555-666
+vankata42
+Lulin 10
+ivan.v@email.com
+vankavanka
+0866612345
